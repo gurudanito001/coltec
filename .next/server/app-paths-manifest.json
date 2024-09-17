@@ -1,0 +1,4 @@
+{
+  "/coltec/page": "app/coltec/page.js",
+  "/(publicPages)/page": "app/(publicPages)/page.js"
+}

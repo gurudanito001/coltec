@@ -1,0 +1,26 @@
+{
+  "pages": {
+    "/(publicPages)/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(publicPages)/page.css",
+      "static/chunks/app/(publicPages)/page.js"
+    ],
+    "/(publicPages)/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(publicPages)/layout.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/coltec/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/coltec/page.js"
+    ]
+  }
+}
