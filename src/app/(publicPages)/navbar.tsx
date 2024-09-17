@@ -17,7 +17,7 @@ const NavBar = () => {
     <nav className="navbar bg-hero-bg  text-primary px-3 lg:px-28 sticky top-0 z-50">
       <div className="navbar-start w-auto">
         <Link href="/" className="flex items-center gap-3">
-          <Image src="/images/logo.jpg" className="" alt="IBSMART LOGO" width={70} height={70} />
+          <Image src="/images/captain-stitches-logo.svg" className="" alt="Captain stitches logo" width={70} height={70} />
         </Link>
       </div>
 

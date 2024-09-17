@@ -58,8 +58,8 @@ const HeroSection = () => {
         Elevate your professional and personal style with Captain Stitches, where bespoke craftsmanship meets timeless elegance. Specializing in custom corporate wear and African attires, we offer a tailored experience that reflects your unique identity and success. 
         </p>
         <div className=" flex">
-          <Link href="" className="btn bg-primary border-primary text-neutral w-full max-w-36 mx-auto sm:ml-auto sm:mr-3 lg:ml-0 mt-5">Order Now</Link>
-          <Link href="" className="btn bg-hero-bg border-primary text-primary w-full max-w-36 mx-auto sm:mr-auto sm:ml-3 lg:mr-0 mt-5">View Catalogue</Link>
+          <Link href="" className="btn bg-primary border-primary text-neutral w-full max-w-36 mx-auto sm:ml-auto sm:mr-3 lg:ml-0 mt-5">Let&apos;s talk</Link>
+          <Link href="/#catalogue" className="btn bg-hero-bg border-primary text-primary w-full max-w-36 mx-auto sm:mr-auto sm:ml-3 lg:mr-0 mt-5">View Catalogue</Link>
         </div>
       </article>
       <figure className={`hidden lg:block h-full w-full lg:max-w-450 xl:max-w-550 bg-blend-darken bg-[url('/images/hero-bg-2.png')] bg-no-repeat bg-cover bg-center`}>

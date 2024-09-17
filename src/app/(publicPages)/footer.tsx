@@ -5,19 +5,19 @@ import Image from "next/image";
 const Footer = ()=>{
 
   return(
-    <section className="text-white py-8 lg:py-12 bg-primary">
+    <section className="text-neutral py-8 lg:py-12 bg-primary">
       <div className=" grid grid-cols-1 md:grid-cols-3 gap-8 md:gap-4 px-5 lg:px-28 border-t py-8">
         <div>
           <h6 className="text-sm font-semibold mb-5">Contact Us</h6>
           <article className="flex items-start mb-4">
-            <MapPinIcon className="w-5 text-white" />
+            <MapPinIcon className="w-5 text-neutral" />
             <p className="text-xs ml-4">
               No. 35, Kola Amodu Cres, Magodo, Lagos <br/>
               8 The Green STE A Dover, DE 19901, USA
             </p>
           </article>
           <article className="flex items-start">
-            <EnvelopeIcon className="w-5 text-white" />
+            <EnvelopeIcon className="w-5 text-neutral" />
             <p className="text-xs ml-4">
               info@email.com
             </p>
@@ -27,17 +27,16 @@ const Footer = ()=>{
           <div>
             <h6 className="text-sm font-semibold mb-5">Company</h6>
             <ul className="text-xs flex flex-col gap-2">
-              <li>About Us</li>
-              <li>How It Works</li>
-              <li>Reviews</li>
-              <li>FAQ’s</li>
+              <li><a href="/#about-us">About Us</a></li>
+              <li><a href="/#our-process">Our Process</a></li>
+              <li><a href="/#catalogue">Catalogue</a></li>
             </ul>
           </div>
 
           <div>
             <h6 className="text-sm font-semibold mb-5">Support</h6>
             <ul className="text-xs flex flex-col gap-2">
-              <li>Privacy Policy</li>
+              <li>Contact Us</li>
               <li>Help</li>
             </ul>
           </div>

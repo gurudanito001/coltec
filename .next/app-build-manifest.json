@@ -1,42 +1,21 @@
 {
   "pages": {
-    "/_not-found/page": [
-      "static/chunks/webpack-06d1dbc80548c72c.js",
-      "static/chunks/fd9d1056-5312095e06c15065.js",
-      "static/chunks/23-58c17000448899d5.js",
-      "static/chunks/main-app-8bb1db3c493f3676.js",
-      "static/chunks/app/_not-found/page-fbaf215ae5dd4db8.js"
-    ],
-    "/layout": [
-      "static/chunks/webpack-06d1dbc80548c72c.js",
-      "static/chunks/fd9d1056-5312095e06c15065.js",
-      "static/chunks/23-58c17000448899d5.js",
-      "static/chunks/main-app-8bb1db3c493f3676.js",
-      "static/css/835a02238bd0976a.css",
-      "static/chunks/app/layout-a3aa75e7ad99378e.js"
-    ],
-    "/coltec/page": [
-      "static/chunks/webpack-06d1dbc80548c72c.js",
-      "static/chunks/fd9d1056-5312095e06c15065.js",
-      "static/chunks/23-58c17000448899d5.js",
-      "static/chunks/main-app-8bb1db3c493f3676.js",
-      "static/chunks/app/coltec/page-73a5707af29ff3fd.js"
-    ],
     "/(publicPages)/page": [
-      "static/chunks/webpack-06d1dbc80548c72c.js",
-      "static/chunks/fd9d1056-5312095e06c15065.js",
-      "static/chunks/23-58c17000448899d5.js",
-      "static/chunks/main-app-8bb1db3c493f3676.js",
-      "static/css/94415320857a362c.css",
-      "static/chunks/865-0a4e3f01e03c5104.js",
-      "static/chunks/app/(publicPages)/page-afd5dacec7b1a4b4.js"
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(publicPages)/page.css",
+      "static/chunks/app/(publicPages)/page.js"
     ],
     "/(publicPages)/layout": [
-      "static/chunks/webpack-06d1dbc80548c72c.js",
-      "static/chunks/fd9d1056-5312095e06c15065.js",
-      "static/chunks/23-58c17000448899d5.js",
-      "static/chunks/main-app-8bb1db3c493f3676.js",
-      "static/chunks/app/(publicPages)/layout-4a1de692fe38c269.js"
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(publicPages)/layout.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
     ]
   }
 }

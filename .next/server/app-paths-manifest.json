@@ -1,6 +1,3 @@
 {
-  "/_not-found/page": "app/_not-found/page.js",
-  "/coltec/page": "app/coltec/page.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js",
   "/(publicPages)/page": "app/(publicPages)/page.js"
 }
