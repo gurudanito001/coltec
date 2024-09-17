@@ -12,7 +12,7 @@ import Copyright from "./copyright";
 export default function Home() {
   return (
     <main className="">
-      <TopNavBar />
+      {/* <TopNavBar />
       <main className="bg-stone-200 relative bottom-11">
       <NavBar/>
       <HeroSection/>
@@ -22,7 +22,7 @@ export default function Home() {
       <Testimonials/>
       <WhyChooseUs/>
       <Footer/>
-      <Copyright/>
+      <Copyright/> */}
 
     </main>
 

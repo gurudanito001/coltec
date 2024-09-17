@@ -1,4 +1,4 @@
-// File: /Users/damiadeh/Desktop/Projects/captain_stitches/src/app/coltec/page.tsx
+// File: /Users/damiadeh/Desktop/Projects/coltec/src/app/coltec/page.tsx
 import * as entry from '../../../../src/app/coltec/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

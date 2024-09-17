@@ -31,7 +31,7 @@ const Products = ()=>{
          <div className="">
           <img className="w-64 h-64 object-cover mx-auto" src="/images/social media.png"/>
           <div className="border w-64 p-6 mx-auto">
-          <h1 className="text-slate-700 font-bold text-center lg:text-left">Round Stickers (3.5" Diameter)</h1>
+          <h1 className="text-slate-700 font-bold text-center lg:text-left">Round Stickers Diameter</h1>
           <h2 className="text-slate-500 uppercase text-sm font-bold mt-5 text-center lg:text-left">Starting at</h2>
           <h3 className="text-slate-700 font-bold mt-2 text-xl text-center lg:text-left">#17,000<span className="text-slate-500 text-sm mt-2 ml-2 text-center lg:text-left">per 100</span></h3>
 

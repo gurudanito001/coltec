@@ -16,7 +16,7 @@ const Testimonials = ()=>{
 
       <div className="border border-white bg-white max-w-xl mx-auto p-6 shadow-md">
         <span><img src="/images/twitter.svg"/></span><h1 className="font-semibold">Oluwatosin <a className="text-sky-500 font-bold" href="#">@tosingirlfx</a></h1>
-        <p className="w-full max-w-sm"> <span className="text-sky-500">@Coltec</span> delivered my mugs in 24hrs. Thank you so much! It's nice doing business with you. More to come.</p>
+        <p className="w-full max-w-sm"> <span className="text-sky-500">@Coltec</span> delivered my mugs in 24hrs. Thank you so much! It&apos;s nice doing business with you. More to come.</p>
       </div>
 
 
